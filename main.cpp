@@ -1,6 +1,8 @@
 int main()
 {
-	ctd::cout<<"Hello World!" << std::endl;
+	std::cout<<"Hello World!" << std::endl;
+	std::cout << "Hey"<< std::endl;
+	std::cout << "third line" << std::endl;
 	return 0;
 }
 
